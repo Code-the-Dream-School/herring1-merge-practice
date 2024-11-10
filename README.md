@@ -17,10 +17,10 @@ a shared project, the basic steps are as follows:
 13. The PR may identify still more merge conflicts.  If so, repeat step 11 and push your branch again.
 14. Time for a new feature branch!
 
-We will experiment with concurrent changes so that you can practice these steps.  During the practice session, each student will make 3 changes to this README.md, all at the same time.  In a feature branch, make 3 changes to this README.md.  Each change should be 2-3 lines.  **First change here.**  Everyone is going to change the same lines.  Once you have made your changes, add and commit your changes and push your feature branch.  Then open a PR.
+We will experiment with concurrent changes so that you can practice these steps.  During the practice session, each student will clone this repository and then make 3 changes to this README.md, all students working at the same time.  In a feature branch, your 3 changes.  Each change should be 2-3 lines.  **First change here.**  Everyone is going to change the same lines.  Once you have made your changes, add and commit your changes and push your feature branch.  Then open a PR.
 
 This is another paragraph where you make a change: **Second change here.** The actual words you write don't matter.
 
 This is another paragraph where you make a change. In this case, just delete a randomly chosen word from the paragraph.
 
-We'll merge changes as the PRs arrive, if there aren't merge conflicts.  When a merge conflict occurs your PR, follow the steps above to resolve it.  If you didn't get a merge conflict in your PR, create another feature branch and repeat the steps until you have practiced resolving merge conflicts.  Please note: Even if there is no merge conflict identified for your PR when you create it, a merge of somebody else's PR may create one you'll have to fix before it can be merged.
+We'll merge changes as the PRs arrive, if there aren't merge conflicts.  When a merge conflict occurs your PR, follow the steps above to resolve it.  If you didn't get a merge conflict in your PR, create another feature branch and repeat the steps with a new PR until you have practiced resolving merge conflicts.  Please note: Even if there is no merge conflict identified for your PR when you create it, a merge of somebody else's PR may create one you'll have to fix before it can be merged.
